@@ -1,0 +1,6 @@
+127.0.0.1 localhost
+
+::1 localhost #[IPv6]
+0.0.0.0 rule34.paheal.net
+0.0.0.0 rule34.xxx
+0.0.0.0 nhentai.net
